@@ -1,7 +1,7 @@
 # Landing-page.the-last-of-us
 Projeto Landing Page série The Last Of  US
--Projeto criado na inteção de mostrar minhas habilidades com páginas estáticas e usando as tecnologias 
-HTML5 e CSS3
+-Projeto criado na inteção de mostrar minhas habilidades com páginas estáticas e usando as tecnologias:
+HTML5, Css3 e javascript
 #Primeira parte 
 A primeira parte do projeto se dá em uma div carrossel com 3 imagens de fundo 
 
