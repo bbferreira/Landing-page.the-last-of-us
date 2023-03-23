@@ -3,6 +3,7 @@ body{
     max-width: 1280px;
     margin: 0 auto ;
     color: #ffffff;
+    
 }
 
 main::after{
@@ -27,6 +28,10 @@ main::after{
 
 
 .informacoes .logo{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
     max-width: 350px;
     filter: invert(1);
     margin-bottom: 80px;
@@ -34,10 +39,17 @@ main::after{
 
 .informacoes .descricao{
     width: 49%;
-    font-size: 24px;
+    font-size: 3vh;
     color: #ffffff;
-    line-height: 30px;
-}
+    line-height: 35px;
+    letter-spacing: 3px;
+    word-spacing: 4px;
+    text-align: center;
+    text-indent: 4px;
+    
+    
+    
+   }
 .botoes-carrossel{
  
  display: flex;
@@ -138,12 +150,11 @@ h1{
  p{
    font-size: 20px;
     color: #ffffff;
-    line-height: 2em;
-  text-align: center;
-  text-indent: 3rem;
-  word-spacing: 3px;
-  margin-right: 30px;
-  word-break: break-all;
+    line-height: 35px;
+    letter-spacing: 3px;
+    word-spacing: 4px;
+    text-align: center;
+    text-indent: 4px;
   margin-bottom: 20px;
   
  } 
@@ -376,6 +387,7 @@ span{
    }
 
    .p-footer{
+    margin-top: 15px;
     font-size: 1em;
     text-align: center;
    }

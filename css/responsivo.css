@@ -1,20 +1,4 @@
-@media (width: 2300px) {
-	.personagens{
-		max-width: 600px;
-		display: flex;
-		flex-direction: row;
-		align-items: center;
-		margin: 10px;
-		margin-bottom: 10px;
-		
-	 }
-	 figure{
-		 display: flex;
-		 flex-direction: column;
-		 justify-content: space-between;
-		 margin-bottom: 10px;
-	 }
-}
+
 
 
 @media (max-width: 1280px) {
@@ -59,6 +43,8 @@
 
 	.informacoes .descricao {
 		width: 100%;
+		
+		
 	}
 
 	.menu-lateral {
